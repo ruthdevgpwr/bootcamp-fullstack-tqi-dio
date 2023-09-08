@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="" />
+    <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ruthd/Documents/Estudos/DIO/bootcamp-fullstack-tqi&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exer03_NumerosAleatorios">
+  <component name="RunManager" selected="Application.Exer04_ArrayMultidimensional">
     <configuration name="Exer01_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.arrays.Exer01_OrdemInversa" />
       <module name="java" />
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer04_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.loops.Exer04_ParEImpar" />
+    <configuration name="Exer04_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.arrays.Exer04_ArrayMultidimensional" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops_arrays.exercicios.loops.*" />
+          <option name="PATTERN" value="loops_arrays.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exer04_ArrayMultidimensional" />
         <item itemvalue="Application.Exer03_NumerosAleatorios" />
         <item itemvalue="Application.Exer02_Consoantes" />
         <item itemvalue="Application.Exer01_OrdemInversa" />
         <item itemvalue="Application.Exer05_Tabuada" />
-        <item itemvalue="Application.Exer04_ParEImpar" />
       </list>
     </recent_temporary>
   </component>
