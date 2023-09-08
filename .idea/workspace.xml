@@ -34,13 +34,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ruthd/Documents/Estudos/DIO/bootcamp-fullstack-tqi&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exer05_Tabuada">
-    <configuration name="Exer01_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.loops.Exer01_NomeEIdade" />
+  <component name="RunManager" selected="Application.Exer01_OrdemInversa">
+    <configuration name="Exer01_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.arrays.Exer01_OrdemInversa" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops_arrays.exercicios.loops.*" />
+          <option name="PATTERN" value="loops_arrays.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exer01_OrdemInversa" />
         <item itemvalue="Application.Exer05_Tabuada" />
         <item itemvalue="Application.Exer04_ParEImpar" />
         <item itemvalue="Application.Exer03_MaiorEMedia" />
         <item itemvalue="Application.Exer02_Nota" />
-        <item itemvalue="Application.Exer01_NomeEIdade" />
       </list>
     </recent_temporary>
   </component>
