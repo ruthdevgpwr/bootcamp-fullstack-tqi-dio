@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/loops_arrays/exercicios/loops/Exer01_NomeEIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/loops_arrays/exercicios/loops/Exer01_NomeEIdade.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ruthd/Documents/Estudos/DIO/bootcamp-fullstack-tqi&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exer02_Nota">
+  <component name="RunManager" selected="Application.Exer03_MaiorEMedia">
     <configuration name="Exer01_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.loops.Exer01_NomeEIdade" />
       <module name="java" />
@@ -62,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exer03_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.loops.Exer03_MaiorEMedia" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops_arrays.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exer03_MaiorEMedia" />
         <item itemvalue="Application.Exer02_Nota" />
         <item itemvalue="Application.Exer01_NomeEIdade" />
       </list>
