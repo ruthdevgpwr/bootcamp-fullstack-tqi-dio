@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-fullstack-tqi.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-fullstack-tqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java/collections-java.iml" filepath="$PROJECT_DIR$/collections-java/collections-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
     </modules>
   </component>
