@@ -28,6 +28,5 @@ public class Exer01_Temperaturas {
         System.out.println("---------------------");
 
         System.out.print("Todas as temperaturas: ");
-        System.out.println(temperaturas);
     }
 }

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="" />
+    <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,26 +39,13 @@
       <recent name="lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer01_Temperaturas">
+  <component name="RunManager" selected="Application.ordenacaoElementos_01 (2)">
     <configuration name="Exer01_Temperaturas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lists.exercicios.Exer01_Temperaturas" />
       <module name="collections-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lists.exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer03_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.arrays.Exer03_NumerosAleatorios" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops_arrays.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ordenacaoElementos_01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lists.ordenacaoElementos_01" />
+      <module name="collections-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ordenacaoElementos_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lists.ordenacaoElementos_01" />
       <module name="collections-java" />
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ordenacaoElementos_01 (2)" />
         <item itemvalue="Application.Exer01_Temperaturas" />
         <item itemvalue="Application.ordenacaoElementos_01" />
         <item itemvalue="Application.ordenacaoElementos_01 (1)" />
         <item itemvalue="Application.Exer04_ArrayMultidimensional" />
-        <item itemvalue="Application.Exer03_NumerosAleatorios" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package loops_arrays.exercicios.arrays;
+package exercicios.arrays;
 
 import java.util.Scanner;
 

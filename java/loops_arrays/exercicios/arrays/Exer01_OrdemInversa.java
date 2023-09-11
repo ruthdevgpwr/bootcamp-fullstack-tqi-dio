@@ -1,4 +1,4 @@
-package loops_arrays.exercicios.arrays;
+package exercicios.arrays;
 
 public class Exer01_OrdemInversa {
     public static void main(String[] args) {
