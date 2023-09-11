@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,10 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ruthd\Documents\Estudos\DIO\bootcamp-fullstack-tqi\java\collections\lists\exercicios" />
+      <recent name="C:\Users\ruthd\Documents\Estudos\DIO\bootcamp-fullstack-tqi\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="lists" />
     </key>
