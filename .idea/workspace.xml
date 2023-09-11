@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections-java/src/lists/ordenacaoElementos_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections-java/src/lists/ordenacaoElementos_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java/lists/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collections-java/lists/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java/lists/ordenacaoElementos_01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collections-java/lists/ordenacaoElementos_01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections-java/lists/ordenacaoElementos_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collections-java/lists/ordenacaoElementos_01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ruthd/Documents/Estudos/DIO/bootcamp-fullstack-tqi&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lists" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.ordenacaoElementos_01">
     <configuration name="Exer02_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops_arrays.exercicios.arrays.Exer02_Consoantes" />

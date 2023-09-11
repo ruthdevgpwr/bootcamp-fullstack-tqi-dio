@@ -5,10 +5,7 @@ package lists;
  * Gato 2 = nome: Jon, idade: 12, cor: amarelo
  * */
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class ordenacaoElementos_01 {
     public static void main(String[] args) {
@@ -28,6 +25,15 @@ public class ordenacaoElementos_01 {
 
         System.out.println("--\tOrdem Natural (Nome)---");
         Collections.sort(meusGatos);
+
+        System.out.println("--\tOrdem Idade\t---");
+        Collections.sort(meusGatos, new ComparatorIdade());
+        //meusGatos.sort(new ComparatorIdade());
+        System.out.println("Meus gatos ordenados pela idade " + meusGatos);
+
+        System.out.println("--\tOrdem cor\t---");
+        meusGatos.sort(new ComparatorCor());
+        System.out.println(meusGatos);
     }
 }
 
@@ -66,5 +72,19 @@ class Gato implements Comparable<Gato>{
     @Override
     public int compareTo(Gato gato) {
         return this.getNome().compareToIgnoreCase(gato.getNome());
+    }
+}
+
+class ComparatorIdade implements Comparator<Gato> {
+    @Override
+    public int compare(Gato g1, Gato g2) {
+        return Integer.compare(g1.getIdade(), g2.getIdade());
+    }
+}
+
+class ComparatorCor implements Comparator<Gato> {
+    @Override
+    public int compare(Gato g1, Gato g2) {
+        return g1.getCor().compareToIgnoreCase(g2.getCor());
     }
 }
