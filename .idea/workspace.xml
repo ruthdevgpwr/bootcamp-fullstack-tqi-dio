@@ -12,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +37,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="aula_associacao.comportamental" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ruthd\Documents\Estudos\DIO\bootcamp-fullstack-tqi\java\collections\lists\exercicios" />
       <recent name="C:\Users\ruthd\Documents\Estudos\DIO\bootcamp-fullstack-tqi\java" />
