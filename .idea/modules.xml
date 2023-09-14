@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-fullstack-tqi.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-fullstack-tqi.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/collections-java/collections-java.iml" filepath="$PROJECT_DIR$/java/collections-java/collections-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/poo/poo.iml" filepath="$PROJECT_DIR$/java/poo/poo.iml" />
     </modules>
   </component>
 </project>
