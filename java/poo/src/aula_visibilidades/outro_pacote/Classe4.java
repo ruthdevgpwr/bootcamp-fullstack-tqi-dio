@@ -10,6 +10,5 @@ public class Classe4 {
 
         //atributo3
 
-        //metodo3
     }
 }
