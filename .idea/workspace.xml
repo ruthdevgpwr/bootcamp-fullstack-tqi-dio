@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="993745a0-4a76-4395-a2b2-75f662c668ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/poo/src/aula_visibilidades/outro_pacote/Classe4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/poo/src/aula_visibilidades/outro_pacote/Classe4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/poo/aula_heranca/exercicios/heranca/upcast_downcast/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poo/aula_heranca/exercicios/heranca/upcast_downcast/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/collections-java/collections/lists/metodos/Metodos_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/collections-java/collections/lists/metodos/Metodos_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +49,26 @@
       <recent name="lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Metodos_1">
+  <component name="RunManager" selected="Application.ExemploSet">
     <configuration name="DIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_visibilidades.outro_pacote.DIO" />
       <module name="poo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aula_visibilidades.outro_pacote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.ExemploSet" />
+      <module name="collections-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ordenacaoElementos_01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists.ordenacaoElementos_01" />
-      <module name="collections-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.Metodos_1" />
         <item itemvalue="Application.DIO" />
         <item itemvalue="Application.aula_heranca.exercicios.heranca.upcast_downcast.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ordenacaoElementos_01 (2)" />
       </list>
     </recent_temporary>
   </component>
