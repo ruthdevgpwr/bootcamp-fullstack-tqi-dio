@@ -48,7 +48,7 @@
       <recent name="lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploMap">
+  <component name="RunManager" selected="Application.OrdenacaoMap">
     <configuration name="ArcoIris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.exercicios.ArcoIris" />
       <module name="collections-java" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.ExemploSet" />
+    <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.OrdenacaoMap" />
       <module name="collections-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenacaoMap" />
         <item itemvalue="Application.ExemploMap" />
         <item itemvalue="Application.ArcoIris" />
         <item itemvalue="Application.ExemploOrdenacaoSet (1)" />
         <item itemvalue="Application.ExemploOrdenacaoSet" />
-        <item itemvalue="Application.ExemploSet" />
       </list>
     </recent_temporary>
   </component>
